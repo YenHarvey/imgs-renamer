@@ -58,4 +58,4 @@ Options:
 
 ## 许可证
 
-~~`imgs-renamer` 采用 MIT 许可证。详情请见 [LICENSE](LICENSE) 文件。~~
+`imgs-renamer` 采用 BY-NC-SA 4.0 许可证。详情请见 [LICENSE](LICENSE) 文件。
