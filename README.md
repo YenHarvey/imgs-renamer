@@ -2,7 +2,11 @@
 
 `imgs-renamer` 是一个用于重命名图像文件的工具，它可以帮助你批量地将图像文件重命名为更有意义的名称。
 
-<img alt="imgs-renamer" height="120" src="./assets/UNDERCONSTRUCTION.png"/>
+<div style="text-align: center;">
+    <img alt="imgs-renamer" height="120" src="./assets/UNDERCONSTRUCTION.png"/>
+    <img alt="sample" height="480" src="./assets/sample.png"/>
+</div>
+
 
 ## 特性
 
@@ -46,7 +50,9 @@ Options:
 
 ### 示例
 
-假设你有一系列图像文件，你想将它们重命名为 `holiday-001.jpg`，`holiday-002.jpg` 等，你可以这样做：
+~~假设你有一系列图像文件，你想将它们重命名为 `holiday-001.jpg`，`holiday-002.jpg` 等，你可以这样做：~~
+
+假设你有一系列图像文件，你想将它们批量重命名，你可以这样做：
 
 ```bash
 ./target/release/imgs-renamer -d /path/to/your/images -t /path/to/save/rename/images -n jpg -s 1
