@@ -52,9 +52,6 @@ Options:
 ./target/release/imgs-renamer -d /path/to/your/images -t /path/to/save/rename/images -n jpg -s 1
 ```
 
-## 贡献
-
-如果你想为 `imgs-renamer` 贡献代码，欢迎发送 Pull Request。我们也欢迎任何形式的反馈和建议。
 
 ## 许可证
 
